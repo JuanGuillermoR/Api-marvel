@@ -1,0 +1,19 @@
+img.img-thumbail{
+    width: 80%;
+    height: 80%;  
+}
+
+h3.tittle{
+    color: mintcream
+}
+
+#color-section{
+    background: linear-gradient(146deg, #4a4848, #f80606);
+}
+/*.col-md-4 {
+    padding: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+}*/
